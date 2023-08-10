@@ -2,7 +2,8 @@
 
 ## URI
 
-![Untitled](URI%E1%84%8B%E1%85%AA%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%87%E1%85%B3%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%8C%E1%85%A5%20%E1%84%8B%E1%85%AD%E1%84%8E%E1%85%A5%E1%86%BC%20%E1%84%92%E1%85%B3%E1%84%85%E1%85%B3%E1%86%B7%20eaa4abf9fee94ee3b6defa6b2014445b/Untitled.png)
+![URI](https://github.com/sunhee00/TIL/assets/104435431/893abd88-4374-49bf-9713-d46eafa26f17)
+
 
 1. URI(Uniform Resource Identifier)
     - URI는 로케이터(locator), 이름(name) 또는 둘 다 추가로 분류될 수 있다.

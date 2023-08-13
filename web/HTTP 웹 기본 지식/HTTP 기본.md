@@ -98,7 +98,8 @@
         - 최대한 스테이스리스하게 짜야된다
 4. HTTP 메세지
     
-    ![http 메세지 구조(공백 라인 필수)](HTTP%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%20774dbdba72c84de0aea8031c78db3de9/Untitled.png)
+    ![HTTP메시지구조](https://github.com/sunhee00/TIL/assets/104435431/3c964272-7cdb-4fe7-b960-1be3d140949f)
+
     
     http 메세지 구조(공백 라인 필수)
     
